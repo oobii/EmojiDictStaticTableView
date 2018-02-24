@@ -46,5 +46,9 @@ Add this code and set Refreshing to "Enabled" in storyboard for TableView Contro
    sender.endRefreshing()  //this line ends the animation
    }
    
+   Open the Assistant editor and Control-drag from the refresh control to your refreshControlActivated method.
+
+
+   
    
    ```
